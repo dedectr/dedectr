@@ -1,16 +1,70 @@
-## Hi there 👋
 
-<!--
-**dedectr/dedectr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Andre Aires
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Python Developer • Backend & Bots • Linux User</b>
+  <br/>
+  <i>“Construindo sistemas inteligentes, bots e soluções que realmente funcionam.”</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-SEU_USUARIO-black?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Brasil-DEV-green?style=for-the-badge&logo=googlemaps" />
+</p>
+
+---
+
+## 🎯 Sobre mim
+
+Desenvolvedor focado em **Python, C++**, apaixonado por **Linux, automação e bots inteligentes**.  
+Crio sistemas, bots de Discord, automações e aplicações que resolvem problemas reais.  
+Sempre buscando melhorar performance, segurança e organização de código.
+
+---
+
+## 🏆 Tecnologias Principais
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLITE3-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DISCORD.PY-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</p>
+
+---
+
+## 💎 Diferenciais
+
+- Código limpo e organizado  
+- Bots estáveis e performáticos  
+- Experiência real com servidores Linux (Arch, VPS, Raspberry Pi)  
+- Backend simples, rápido e funcional  
+
+---
+
+## 📈 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 💬 Frase
+
+> “Código não é só linhas — é poder, automação e liberdade.”
+
+---
+
