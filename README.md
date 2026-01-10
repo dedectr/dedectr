@@ -48,8 +48,7 @@ Sempre buscando melhorar performance, segurança e organização de código.
 
 - Código limpo e organizado  
 - Bots estáveis e performáticos  
-- Experiência real com servidores Linux (Arch, VPS, Raspberry Pi)  
-- Backend simples, rápido e funcional  
+- Experiência real com servidores Linux (VPS, Raspberry Pi)   
 
 ---
 
