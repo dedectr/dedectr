@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-SEU_USUARIO-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/dedectr">
+    <img src="https://img.shields.io/badge/GitHub-dedectr-black?style=for-the-badge&logo=github" />
   </a>
   <img src="https://img.shields.io/badge/Brasil-DEV-green?style=for-the-badge&logo=googlemaps" />
 </p>
@@ -50,15 +50,6 @@ Sempre buscando melhorar performance, segurança e organização de código.
 - Bots estáveis e performáticos  
 - Experiência real com servidores Linux (Arch, VPS, Raspberry Pi)  
 - Backend simples, rápido e funcional  
-
----
-
-## 📈 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
 ---
 
