@@ -2,9 +2,7 @@
 ---
 
 ## 🎯 Sobre mim
-
-Desenvolvedor focado em **Python, C++**, apaixonado por **Linux, automação e bots inteligentes**.  
-Crio sistemas, bots de Discord, automações e aplicações que resolvem problemas reais.  
+Crio sistemas automações e aplicações que resolvem problemas reais.  
 Sempre buscando melhorar performance, segurança e organização de código.
 
 ---
